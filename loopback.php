@@ -55,13 +55,20 @@ if ($_SERVER['REQUEST_METHOD'] === 'GET') {
   if ((count($_GET)) !== $count) {
     echo "{\"Type\":\"$method\", \"parameters\": ".json_encode($_GET)."}";
   }
-// if number of null values equals number of elements in array
-// then will output the else statement
+// if number of null values equals number of elements in GET array
+// then program will output the else statement
 // otherwise the json object will be returned
   else {
     echo "{\"Type\":\"$method\", \"parameters\":null}";
   }
 }
+
+/*
+stackoverflow.com/questions/8238502/convert-post-array-to-json-format
+got the code json_encode($_POST) from user Code Magician's post (their only line of code on the page)
+applied the code here to convert my GET and POST array to a JSON object
+*/
+
 // post works exactly the same way as get
 if ($_SERVER['REQUEST_METHOD'] === 'POST') {
   foreach ($_POST as $key=>$value) {

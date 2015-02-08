@@ -1,0 +1,31 @@
+Start: Sat, 7 Feb 2015 23:34:52 -0800 
+End: Sat, 7 Feb 2015 23:45:34 -0800 
+Tasks: Fixed repository and added a src folder to put the files in
+
+Start: Sat, 7 Feb 2015 21:59:00 -0800
+End: Sat, 7 Feb 2015 23:34:52 -0800 
+Tasks: Finished adding comments and necessary sources to my code, did further testing and am
+
+Start: Fri, 6 Feb 2015 16:52:00 -0800 
+End: Fri, 6 Feb 2015 17:00:00 -0800 
+Tasks: Added .htaccessfile (not an actual commit, just added this here)
+
+Start: Fri, 6 Feb 2015 11:08:00 -0800 
+End: Fri, 6 Feb 2015 13:00:51 -0800 
+Tasks: Added some functionalities to content2.php and finished debugging content1.php and ne
+
+Start: Thu, 5 Feb 2015 22:16:00 -0800 
+End: Thu, 5 Feb 2015 22:35:06 -0800 
+Tasks: Debugged some session issues in content1.php and created the content2.php file
+
+Start: Thu, 5 Feb 2015 16:33:00 -0800 
+End: Thu, 5 Feb 2015 18:27:04 -0800 
+Tasks: Started content1.php and login.php, unsure if they work completely properly yet, will
+
+Start: Thu, 5 Feb 2015 13:56:00 -0800 
+End: Thu, 5 Feb 2015 15:59:00 -0800 
+Tasks: Finished coding loopback.php, will do further testing later
+
+Start: Thu, 5 Feb 2015 11:28:00 -0800
+End: Thu, 5 Feb 2015 13:31:20 -0800 
+Tasks: Finished coding multtable.php; need to test more later
